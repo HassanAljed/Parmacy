@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\Users\hp\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+C:\Users\hp\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Form1.resources
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.Properties.Resources.resources
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.exe
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.pdb
+C:\Users\hp\source\repos\pharmacy\pharmacy\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\hp\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.CopyComplete
